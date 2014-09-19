@@ -4,4 +4,5 @@ Save Format v3.0(19990112)
 @end;
 @begin Objects
  "vgminstaller.sra" "vgminstaller.pbl";
+ "w_principal.srw" "vgminstaller.pbl";
 @end;
