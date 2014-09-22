@@ -5,5 +5,4 @@ Save Format v3.0(19990112)
 @begin Objects
  "s_ftp.srs" "vgminstaller.pbl";
  "vgminstaller.sra" "vgminstaller.pbl";
- "w_principal.srw" "vgminstaller.pbl";
 @end;
