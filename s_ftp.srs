@@ -1,0 +1,5 @@
+HA$PBExportHeader$s_ftp.srs
+global type s_ftp from structure
+	string		asd
+end type
+
