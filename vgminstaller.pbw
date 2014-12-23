@@ -3,6 +3,7 @@ Save Format v3.0(19990112)
 @end;
 @begin Targets
  0 "vgminstaller.pbt";
+ 1 "vgmpackager.pbt";
 @end;
 DefaultTarget "vgminstaller.pbt";
 DefaultRemoteTarget "vgminstaller.pbt";
